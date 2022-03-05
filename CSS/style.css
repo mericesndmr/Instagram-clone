@@ -1,0 +1,82 @@
+body{
+    background-color: #fafafa;
+  }
+  /* ------------------ NAVBAR'IN HEİGHT DEĞERİNİ AYARLADIM */ 
+  #navbar-id{
+    height: 60px; /* navbar height değeri için patika 54px demiş ancak instagramın 60px ben de 60px yaptım*/
+  }
+  /* ------------------ NAVBAR'IN HEİGHT DEĞERİNİ AYARLADIM */
+  
+  
+  /* ------------- NAVBAR İÇİNDEKİ INSTAGRAM LOGOSU BOYUTU */
+  #instagram-icon{
+    width: 130px;
+  }
+  /* ------------- NAVBAR İÇİNDEKİ INSTAGRAM LOGOSU BOYUTU */
+  
+  
+  /* ------------NAVBAR İÇİNDEKİ İCONLARIN RENGİNİ AYARLADIM */
+  i{
+    color: black;
+  }
+  /* ------------NAVBAR İÇİNDEKİ İCONLARIN RENGİNİ AYARLADIM */
+  
+  /* --------------- HİKAYELER KISMINDAKİ PROFİL FOTOĞRAFLARININ BOYUTLANDIRMA KODLARI */
+  .profil-fotograflari{
+    width: 65px;
+    height: 65px;
+    object-fit:cover;
+    border: 3px solid #e84118
+  }
+  /* --------------- HİKAYELER KISMINDAKİ PROFİL FOTOĞRAFLARININ BOYUTLANDIRMA KODLARI */
+  
+  /* --------------- HİKAYELER KISMINDAKİ PROFİL FOTOĞRAFLARININ ALTINDAKİ TEXT  KODLARI */
+  .kullanici-adi-story{
+    font-size: 12px;
+  }
+  .kullanici-adi-story > a{
+    text-decoration: none;
+    color: black;
+  }
+  /* --------------- HİKAYELER KISMINDAKİ PROFİL FOTOĞRAFLARININ ALTINDAKİ TEXT  KODLARI */
+  
+  
+  
+  /* XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX */
+  
+  
+  /* ----------------- GÖNDERİLER KISMINDAKİ İÇERİLERİN TAMAMI İÇİN KODLAR ------------------ */
+  
+  /* GÖNDERİLER ÜSTÜNDEKİ PROFİL FOTOĞRAFI İÇİN KODLAR */
+  .pp{
+    width: 40px; /*height ve width değerlerine sonradan bi bak*/
+    height: 40px;
+    object-fit:cover;
+  }
+  /* GÖNDERİLER ÜSTÜNDEKİ PROFİL FOTOĞRAFI İÇİN KODLAR */
+  
+  
+  /* GÖNDERİLER ÜSTÜNDEKİ PROFİL FOTOĞRAFI YANINDAKİ KULLANICI İSMİ İÇİN KODLAR */
+  .kullanici-adi{
+    font-weight: bold;
+  }
+  /* GÖNDERİLER ÜSTÜNDEKİ PROFİL FOTOĞRAFI YANINDAKİ KULLANICI İSMİ İÇİN KODLAR */
+  
+  /* GÖNDERİLER İÇİNDEKİ BÜYÜK FOTOĞRAF ALANI KODLARI */
+  .icerik-fotograf{
+   max-height: 700px;
+  }
+  /* GÖNDERİLER İÇİNDEKİ BÜYÜK FOTOĞRAF ALANI KODLARI */
+  
+  /* GÖNDERİLER İÇİNDEKİ FOTOĞRAF AÇIKLAMASI YANINDAKİ FOTOĞRAF İÇİN KODLAR */
+  .pp-kucuk{
+    width: 30px; /*height ve width değerlerine sonradan bi bak*/
+    height: 30px;
+    object-fit:cover;
+  }
+  /* GÖNDERİLER İÇİNDEKİ FOTOĞRAF AÇIKLAMASI YANINDAKİ FOTOĞRAF İÇİN KODLAR */
+  
+  
+  /* ----------------- GÖNDERİLER KISMINDAKİ İÇERİLERİN TAMAMI İÇİN KODLAR ------------------ */
+  
+  
